@@ -9,7 +9,7 @@ IT Director and Software Dev
 * ✉️  You can contact me at [nick@gigabitnick.com](mailto:nick@gigabitnick.com) 
 * 🧠  I'm learning ReactJS | NextJS | Serverless
 
-<a href="https://www.github.com/elliottnick" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/elliottnick?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a><a href="https://www.x.com/gigabitnick" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/gigabitnick?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a>
+<a href="https://www.github.com/elliottnick" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/elliottnick?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a><a href="https://www.x.com/gigabitnick" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/gigabitnick?logo=x&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a>
 
 ### Skills  
 
